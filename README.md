@@ -1,7 +1,7 @@
 # SWFourInARow
-An implementation of the Four In a Row game in C. 
+An implementation of a Four In a Row game in C. 
 
 
 
 
-Created by Mor Huberman and Alexander Shugaley, 2016
+Created by Mor Huberman & Alexander Shugaley, 2016
